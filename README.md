@@ -80,7 +80,8 @@ Non-functional requirements describe how the system performs and behaves under c
 ---
 ### Use Case Diagrams
 
-> Use Case Diagram to be inserted here
+Use Case Diagram illustrating the major interactions in the booking system:
+![Use Case Diagram](alx-booking-uc.png)
 
 ---
 
